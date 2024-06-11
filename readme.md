@@ -13,11 +13,11 @@
  -->
 
 <a href="https://komarev.com/ghpvc/?username=cap-mahdi">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=cap-mahdi&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/4009991b-de22-4f0e-b42b-56335991d786.svg)](https://wakatime.com/@ChaabaneMahdi)
+<!-- [![wakatime](https://wakatime.com/badge/user/4009991b-de22-4f0e-b42b-56335991d786.svg)](https://wakatime.com/@ChaabaneMahdi) -->
 
 <!-- Intro  -->
 <h3 align="center">
