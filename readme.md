@@ -29,7 +29,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
     「 I am a software engineer student from <b>Tunisia</b> 」
     <br>
