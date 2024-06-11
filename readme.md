@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Mahdi Chaabane</a></b>
+                <b>Mahdi Chaabane</b>
         </samp>
 </h3>
 
@@ -30,7 +30,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a software engineer student from <b>Tunisia</b> 」
+    「 I am a software engineering student at <a href="https://www.linkedin.com/school/national-institute-of-applied-science-and-technology/" target="_blank"><b>INSAT</b></a> in <b>Tunisia.</b>」
     <br>
     <br>
   </samp>
@@ -41,10 +41,13 @@
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a> -->
  <a href="https://linkedin.com/in/mahdi-chaabane" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mahdi"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mahdi's linkedin"/>
+ </a>
+ <a href="https://gitlab.com/Mahdich_02" target="_blank">
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="mahdi's Gitlab"/>
  </a>
  <a href="https://codeforces.com/profile/mahdich02" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="mahdi"/>
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="mahdi's codeforces"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
